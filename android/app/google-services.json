@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "88976983666",
+    "project_id": "whiskyshop-38ace",
+    "storage_bucket": "whiskyshop-38ace.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:88976983666:android:c975cbe2f9fc46e0bb64eb",
+        "android_client_info": {
+          "package_name": "com.example.untitled"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "88976983666-qbvl3r3sfk5vgch801tvnu7nkrlr3k67.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWybQQKl6iuZZeH2U4FiJqFEeAGUP6u30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "88976983666-qbvl3r3sfk5vgch801tvnu7nkrlr3k67.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
